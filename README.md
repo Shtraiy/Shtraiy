@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D71DF7&background=FF76BD00&random=false&width=435&lines=Welcome+to+the+Resalia's+Github)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D71DF7&background=FF76BD00&random=false&width=435&lines=Welcome+to+the+Resalia's+Github)](https://git.io/typing-svg)
 ### This is Resalia, a college student from China.<br>
 
 Here is my personal blog [Nocturne](https://wynio.pw)<br>
