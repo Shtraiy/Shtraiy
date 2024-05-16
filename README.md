@@ -1,4 +1,5 @@
-### Hi there 👋
+### 欢迎来到我的Github
+这里是Resalia，目前在读大学生
 
 <!--
 **Shtraiy/Shtraiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
