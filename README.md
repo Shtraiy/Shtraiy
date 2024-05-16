@@ -1,8 +1,6 @@
 <div align="center">
-<h3>Welcome to my Github</h3>
+<h1>Welcome to my Github</h1>
 This is Resalia, a college student. <br>
-
-<h3 align="center">A passionate frontend developer from China</h3>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
